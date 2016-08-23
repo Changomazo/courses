@@ -1,5 +1,5 @@
 ---
-title       : Scratch work
+title       : Scratch work_m
 subtitle    : 
 author      : Brian Caffo, Jeff Leek and Roger Peng
 job         : Johns Hopkins Bloomberg School of Public Health
